@@ -4,6 +4,7 @@ import (
 	"errors"
 	"testing"
 
+	//nolint
 	"github.com/stretchr/testify/require"
 )
 
